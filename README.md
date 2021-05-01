@@ -17,8 +17,9 @@
   
   
 ## Image Outputs of the tasks listed above using the OpenCV and Matplotlib libraries:
-
-##### Performing Image Derivative:  
+  
+  
+## Performing Image Derivative:  
 An image derivative is defined as the change in the pixel value of an image.  
   
 ![Derivative](https://user-images.githubusercontent.com/57404551/116781182-0e79bc80-aa8a-11eb-8333-c398aa133fa2.png)
