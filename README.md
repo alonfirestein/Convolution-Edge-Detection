@@ -12,7 +12,7 @@
 - Hough Circles Transform
   
   
-## All tasks and functions were written in the ex2_utils.py file and they were all tested in the ex2_main.py file.
+##### All tasks and functions were written in the ex2_utils.py file and they were all tested in the ex2_main.py file.
 *NOTE:* It is recommended to run the functions one at a time in the main file and not all at once as it may take a while!  
   
   
